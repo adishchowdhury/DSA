@@ -1,2 +1,4 @@
-#7 days DSA lockin Challenge
+#7dinDSAin 
+
+Challenge
 quite tough but lets try ;)
